@@ -1,0 +1,20 @@
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Cover Letter Generator.exe.config
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Cover Letter Generator.exe
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Cover Letter Generator.pdb
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CGen.Properties.Resources.resources
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cover Letter Generator.exe
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cover Letter Generator.pdb
+C:\Users\Jacob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CoverLetterGenerator.CGen.resources
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\bin\Debug\Cover Letter Generator.exe.config
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\bin\Debug\Cover Letter Generator.exe
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\bin\Debug\Cover Letter Generator.pdb
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\CoverLetterGenerator.CGen.resources
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\CGen.Properties.Resources.resources
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\Cover Letter Generator.exe
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\Cover Letter Generator.pdb
+C:\Users\Jacob\source\repos\Cover Letter Generator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
